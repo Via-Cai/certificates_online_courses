@@ -14,13 +14,9 @@ Below is a list of courses completed on DataCamp, each contributing to my knowle
 
 *More courses will be added as I continue my learning journey.*
 
----
-
 ## How to Access the Courses
 
 These certificates were earned through courses completed on **DataCamp**, a leading platform for learning data-related skills. You can visit [DataCamp](https://www.datacamp.com) for more information and to explore available courses.
-
----
 
 ## Contact Information
 
@@ -29,7 +25,5 @@ For any inquiries, feel free to reach out to me:
 - **Name**: Allivia Jaazielle P. Caina (Via)
 - **Email**: via.caina@gmail.com
 - **LinkedIn**: [allivia-caina](https://www.linkedin.com/in/allivia-caina/)
-
----
 
 *This repository will be updated with more certificates as I continue to learn and grow in the field of data analytics.*
