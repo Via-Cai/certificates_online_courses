@@ -1,5 +1,4 @@
 # Certificates of Completion - DataCamp Online Courses
-
 ## Overview
 
 This repository showcases the certificates I have earned through completing DataCamp online courses. These courses are focused on **data analytics**, **data visualization**, and related fields. The knowledge and skills gained from these courses include data manipulation, visualization, analysis, and more, using tools such as **Excel**, **SQL**, **Python**, and **Power BI**.
