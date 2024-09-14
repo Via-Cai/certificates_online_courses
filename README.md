@@ -16,30 +16,6 @@ Below is a list of courses completed on DataCamp, each contributing to my knowle
 
 ---
 
-## Certificates
-
-Each certificate demonstrates the successful completion of a course and highlights my dedication to improving my skills in data analytics.
-
-1. [Introduction to Python for Data Science - Certificate](link_to_certificate)
-2. [Data Manipulation with Pandas - Certificate](link_to_certificate)
-3. [SQL for Data Science - Certificate](link_to_certificate)
-4. [Power BI for Data Analysts - Certificate](link_to_certificate)
-5. [Data Analysis in Excel - Certificate](link_to_certificate)
-
----
-
-## Skills Acquired
-
-Through these courses, I have gained a range of skills, including:
-
-- **Python Programming**: Understanding the basics of Python, working with libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
-- **Data Analysis**: Using statistical methods to derive insights from data and communicate findings effectively.
-- **SQL Querying**: Writing complex SQL queries to extract, clean, and manipulate data from databases.
-- **Excel and Power BI**: Utilizing Excel for quick data analysis and Power BI for interactive dashboards and reports.
-- **Data Engineering Fundamentals**: Understanding the basics of ETL processes, databases, and working with large datasets.
-
----
-
 ## How to Access the Courses
 
 These certificates were earned through courses completed on **DataCamp**, a leading platform for learning data-related skills. You can visit [DataCamp](https://www.datacamp.com) for more information and to explore available courses.
